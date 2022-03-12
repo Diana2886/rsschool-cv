@@ -1,6 +1,6 @@
 # Diana Abdykassenova
 
-![My photo](/img/photo.jpg)
+![photo](assets/img/photo.jpg "My photo")
 
 ## Contacts
 
