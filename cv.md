@@ -29,3 +29,21 @@ function deepCount(a){
 }
 ```
 
+## Work experience
+
+- Chief specialist in a government organization
+- I have a little experience of site layout from the RSSchool Front-end 2021Q3 and Pre-School 2022 courses . In that projects I used fixed and adaptive layout, worked with Document Object Model in JavaScript:
+    * Museum - https://rolling-scopes-school.github.io/diana2886-JSFE2021Q3/museum-dom/
+    * Momentum - https://infallible-heisenberg-a3d65d.netlify.app/
+    * Portfolio - https://rolling-scopes-school.github.io/diana2886-JSFEPRESCHOOL/portfolio/
+    * Image-gallery - https://rolling-scopes-school.github.io/diana2886-JSFEPRESCHOOL/image-galery/
+    * Tic-tac-toe - https://rolling-scopes-school.github.io/diana2886-JSFEPRESCHOOL/tic-tac-toe/
+
+## Education
+
+- Karagandy State Technical University, Systems Engineer
+- Online learning
+
+## English level
+
+B1 - Intermediate
