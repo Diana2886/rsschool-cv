@@ -4,10 +4,11 @@
 
 ## Contacts
 
-- **Phone:** +77073284699
+- Karaganda, Kazakhstan
 - **E-mail:** tdm2886@gmail.com
 - **GitHub:** diana2886
 - **Telegram:** @Diana2886
+- **Discord:** Diana2886#2516
 
 ## Summary
 
