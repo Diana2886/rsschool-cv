@@ -15,3 +15,17 @@ I want to work as a frontend developer because I like the process of creating we
 
 I have a technical education. To achieve my goal I can spend a lot of time studying new information.
 
+## Skills
+
+- Web-development: HTML5, CSS3, JavaScript
+- Version control: Git, GitHub
+- Graphics: Figma
+
+## Code example
+
+```javascript
+function deepCount(a){
+  return a.reduce((sum, item) => sum + (Array.isArray(item) ? deepCount(item) : 0), a.length);
+}
+```
+
