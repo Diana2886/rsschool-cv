@@ -38,11 +38,11 @@ function deepCount(a){
 
 ## Projects
 
-- Museum - https://rolling-scopes-school.github.io/diana2886-JSFE2021Q3/museum-dom/
-- Momentum - https://infallible-heisenberg-a3d65d.netlify.app/
-- Portfolio - https://rolling-scopes-school.github.io/diana2886-JSFEPRESCHOOL/portfolio/
-- Image-gallery - https://rolling-scopes-school.github.io/diana2886-JSFEPRESCHOOL/image-galery/
-- Tic-tac-toe - https://rolling-scopes-school.github.io/diana2886-JSFEPRESCHOOL/tic-tac-toe/
+- [Museum](https://rolling-scopes-school.github.io/diana2886-JSFE2021Q3/museum-dom/)
+- [Momentum](https://infallible-heisenberg-a3d65d.netlify.app/)
+- [Portfolio](https://rolling-scopes-school.github.io/diana2886-JSFEPRESCHOOL/portfolio/)
+- [Image-gallery](https://rolling-scopes-school.github.io/diana2886-JSFEPRESCHOOL/image-galery/)
+- [Tic-tac-toe](https://rolling-scopes-school.github.io/diana2886-JSFEPRESCHOOL/tic-tac-toe/)
 
 ## Education
 
