@@ -1,22 +1,27 @@
-Comfortaa Variable Font
-=======================
+Inter Variable Font
+===================
 
-This download contains Comfortaa as both a variable font and static fonts.
+This download contains Inter as both a variable font and static fonts.
 
-Comfortaa is a variable font with this axis:
+Inter is a variable font with these axes:
+  slnt
   wght
 
 This means all the styles are contained in a single file:
-  Comfortaa-VariableFont_wght.ttf
+  Inter/Inter-VariableFont_slnt,wght.ttf
 
 If your app fully supports variable fonts, you can now pick intermediate styles
 that aren’t available as static fonts. Not all apps support variable fonts, and
-in those cases you can use the static font files for Comfortaa:
-  static/Comfortaa-Light.ttf
-  static/Comfortaa-Regular.ttf
-  static/Comfortaa-Medium.ttf
-  static/Comfortaa-SemiBold.ttf
-  static/Comfortaa-Bold.ttf
+in those cases you can use the static font files for Inter:
+  Inter/static/Inter-Thin.ttf
+  Inter/static/Inter-ExtraLight.ttf
+  Inter/static/Inter-Light.ttf
+  Inter/static/Inter-Regular.ttf
+  Inter/static/Inter-Medium.ttf
+  Inter/static/Inter-SemiBold.ttf
+  Inter/static/Inter-Bold.ttf
+  Inter/static/Inter-ExtraBold.ttf
+  Inter/static/Inter-Black.ttf
 
 Get started
 -----------
