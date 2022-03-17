@@ -485,6 +485,10 @@ body {
     padding-bottom: 20px;
   }
 
+  .section-item::before {
+    top: 4px;
+  }
+
   .nav-link {
     font-size: 14px;
   }
