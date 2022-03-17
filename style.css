@@ -76,7 +76,6 @@ body {
 }
 
 .nav-link {
-  position: relative;
   padding: 0 12px;
   font-size: 20px;
   line-height: 50px;
@@ -91,9 +90,6 @@ body {
 }
 
 .header {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
   height: 60px;
   padding: 5px 30px;
   background-color: #6C8A4D;
@@ -306,7 +302,9 @@ body {
 
 @media (max-width: 900px) {
   .header {
+    display: flex;
     justify-content: flex-end;
+    align-items: center;
   }
 
   .nav {
