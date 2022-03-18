@@ -7,16 +7,16 @@ function toggleMenu() {
   hamburger.classList.toggle('open');
   nav.classList.toggle('open');
   shadow.classList.toggle('active');
-  document.body.style.overflow = 'hidden';
+  document.body.classList.toggle('lock');
 }
 hamburger.addEventListener('click', toggleMenu);
 
 function closeMenu(event) {
-  if (event.target.classList.contains('nav-link') || !event.target.classList.contains('nav-link')) {
+  if (event.target.classList.contains('nav-link') || event.target.classList.contains('shadow')) {
     hamburger.classList.remove('open');
     nav.classList.remove('open');
     shadow.classList.remove('active');
-    document.body.style.overflow = 'visible';
+    document.body.classList.remove('lock');
   }
 }
 nav.addEventListener('click', closeMenu);
