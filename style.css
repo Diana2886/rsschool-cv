@@ -259,37 +259,6 @@ body.lock {
   background-image: url(assets/svg/6.svg);
 }
 
-.contacts-item::before {
-  content: "";
-  position: absolute;
-  top: 3px;
-  left: 0px;
-  width: 17px;
-  height: 17px;
-  background-size: contain;
-  background-repeat: no-repeat;
-}
-
-.contacts-item:nth-child(1):before {
-  background-image: url(assets/svg/1.svg);
-}
-
-.contacts-item:nth-child(2):before {
-  background-image: url(assets/svg/2.svg);
-}
-
-.contacts-item:nth-child(3):before {
-  background-image: url(assets/svg/3.svg);
-}
-
-.contacts-item:nth-child(4):before {
-  background-image: url(assets/svg/4.svg);
-}
-
-.contacts-item:nth-child(5):before {
-  background-image: url(assets/svg/5.svg);
-}
-
 .footer {
   background-color: #6C8A4D;
   padding: 5px 30px;
